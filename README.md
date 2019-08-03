@@ -52,6 +52,12 @@ npm run lint:fix
 npm test
 ```
 
+### Tips
+
+```bash
+if you want to see more about the feature, you can get it in 'src/layout/BlankLayout'
+```
+
 ## More
 
 You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
