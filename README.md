@@ -1,6 +1,6 @@
-# Ant Design Pro
+# Navigation Precise Position
 
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
+This project is base on [Ant Design Pro](https://pro.ant.design). it works with the history url. If you have similar business requirements, please feel free to use this feature
 
 ## Environment Prepare
 
@@ -28,36 +28,17 @@ Scripts provided in `package.json`. It's safe to modify or add additional script
 npm start
 ```
 
-### Build project
+or
 
 ```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
+yarn start
 ```
 
 ### Tips
 
 ```bash
-if you want to see more about the feature, you can get it in 'src/layout/BlankLayout'
+if you want to see more about the feature, you can get it in 'src/layout/BlankLayout'.
+Welcome all talents to complete this feature！
 ```
 
-## More
 
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
